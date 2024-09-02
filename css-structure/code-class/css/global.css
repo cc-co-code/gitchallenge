@@ -1,0 +1,25 @@
+/* Variable in css*/
+:root {
+  --primary-color: rgb(98, 52, 134);
+  --primary-color: rgba(255, 254, 255, 1);
+  --black-color: black;
+}
+
+body {
+  width: 100%;
+  min-height: 100vh;
+
+  background: var(--primary-color);
+  background: linear-gradient(
+    rgba(98, 52, 134, 1) 0%,
+    rgba(142, 64, 218, 1) 33%,
+    rgba(177, 133, 245, 1) 66%,
+    rgba(255, 254, 255, 1) 99%
+  );
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 0px;
+}

@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  background-color: rgb(169, 97, 235);
+}
+
+ul {
+  font-size: 2rem;
+}
+
+li {
+  font-size: 1rem;
+}
+
+.square-big {
+  width: 500px;
+  height: 500px;
+  background-color: salmon;
+}
+.square-small {
+  width: 40px;
+  height: 40px;
+  background-color: rgb(23, 142, 86);
+}

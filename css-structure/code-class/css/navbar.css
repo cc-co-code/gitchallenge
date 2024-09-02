@@ -1,0 +1,33 @@
+/* -----------------------------------------------
+                    Navbar
+--------------------------------------------------- */
+nav {
+  padding: 10px 20px;
+  width: 100%;
+  color: whitesmoke;
+  border-bottom: 1px solid violet;
+  gap: 20px;
+}
+
+nav h6 {
+  display: inline;
+}
+
+nav h1 {
+  display: inline;
+  text-align: center;
+  font-size: 30px;
+  margin: 20%;
+}
+
+nav a {
+  padding: 10px;
+}
+
+.navbar {
+  background-color: brown;
+}
+
+.navbar__title {
+  color: aquamarine;
+}

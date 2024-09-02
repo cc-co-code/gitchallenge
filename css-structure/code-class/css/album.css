@@ -1,0 +1,7 @@
+@import "./global.css";
+@import "./navbar.css";
+@import "./footer.css/";
+
+img {
+  border-radius: 90%;
+}

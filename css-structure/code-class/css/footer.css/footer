@@ -1,0 +1,16 @@
+/* -----------------------------------------------
+                    Footer
+--------------------------------------------------- */
+footer {
+  width: 100%;
+
+  position: absolute;
+  bottom: 0px;
+
+  padding: 10px 0;
+  color: var(--black-color);
+  border-top: 1px solid violet;
+  gap: 20px;
+  text-align: center;
+  font-size: 10px;
+}
